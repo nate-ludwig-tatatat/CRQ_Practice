@@ -1,0 +1,9 @@
+﻿我，wo3,me,i;
+你,ni3,you;
+人,ren2,person,man;
+小，xiao3,little,small;
+好，hao3,good;
+你好,ni3 hao3,hello,hi;
+大,da4,big,large;
+学生,xue2 sheng1,student;
+家,jia1,family,home;
